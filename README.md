@@ -1,5 +1,4 @@
-# EduBot — Autonomous Educational AI Assistant
-
+# EduBot 
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-0f172a?style=flat)](https://edubot-phi.vercel.app)
 [![Demo](https://img.shields.io/badge/Demo-Vercel%20Live-000000?style=flat&logo=vercel&logoColor=white)](https://edubot-phi.vercel.app)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini%20%7C%20Embeddings-10a37f?style=flat&logo=openai&logoColor=white)](https://openai.com/)
@@ -208,7 +207,7 @@ No Windows via PowerShell:
 ## Autor
 
 **Felipe Vieira Saliba Rebouças**
-- LinkedIn: [linkedin.com/in/felipesaliba](https://linkedin.com/in/felipesaliba) *(atualize com seu link público)*
+- LinkedIn: [linkedin.com/in/felipesaliba](https://linkedin.com/in/felipesaliba)
 - GitHub: [@felipesaliba5-design](https://github.com/felipesaliba5-design)
 - Portfólio / Demo: [edubot-phi.vercel.app](https://edubot-phi.vercel.app)
 
